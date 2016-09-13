@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="300dp"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center_horizontal"
+              android:gravity="center"
+              android:orientation="vertical"
+              android:layout_marginTop="16dp">
+
+    <EditText
+        android:drawablePadding="8dp"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:hint="@string/username"
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:drawablePadding="8dp"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:hint="@string/password"
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:drawableRight="@mipmap/ic_launcher"
+        />
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:visibility="gone"
+        />
+
+
+</LinearLayout>

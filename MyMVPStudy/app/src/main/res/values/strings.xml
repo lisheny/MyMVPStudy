@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMVPStudy</string>
+    <string name="login_messga">登陆成功了0.0</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="mvp_study">MyMVPStudy</string>
+    <string name="username_error">用户名错误</string>
+    <string name="password_error">密码错误</string>
+</resources>
