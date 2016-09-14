@@ -5,7 +5,6 @@ import android.text.TextUtils;
 
 /**
  * 接口实现类
- * 还来一句
  * Created by LENOVO on 2016/9/13.
  */
 public class LoginInteractorImpl implements LoginInteractor {

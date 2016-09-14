@@ -11,7 +11,7 @@ import com.lisheny.lenovo.mymvpstudy.R;
 import com.lisheny.lenovo.mymvpstudy.main.MainActivity;
 
 /**
- * 注释：哈哈哈
+ * 注释：666
  * Created by LENOVO on 2016/9/13.
  */
 public class LoginActivity extends Activity implements LoginView, View.OnClickListener {
