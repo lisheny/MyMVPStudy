@@ -3,7 +3,7 @@ andorid MVP 学习
 
 >下图是个人理解的MVP及接口之间的关系处理图
 
-![](https://github.com/lisheny/MyMVPStudy/blob/master/MyMVPStudy/app/src/main/res/mipmap-xxxhdpi/00.png?raw=true)
+![](https://github.com/lisheny/MyMVPStudy/blob/master/MyMVPStudy/app/src/main/res/mipmap-xxxhdpi/zzz00.png?raw=true)
 
 #####1--------------------------> LoginInteractorImpl 实现 LoginInteractor 里面的 login（）
 
