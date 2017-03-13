@@ -33,6 +33,8 @@ andorid MVP 学习
 ######个人见解:如果业务逻辑不是很复杂，完全去掉M（model）这一块，直接在 P 中写业务逻辑,甚至直接在Activity中写好了，灵活运用，不能为了框架而框架...（话说，小项目也没什么必要用MVP了 0.0）
 
 更多相关资料学习[戳这里](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
+
+MVPPlugin插件介绍，直接[戳这里](http://yugai.github.io/2017/02/27/AndroidStudio-MVPPlugin/)
  
 
 
